@@ -1,0 +1,3 @@
+timer.c:10:6:tim2_1hz	1
+timer.c:40:6:confit_GPIOA5	1
+timer.c:55:6:tim2_modo_comparacion	1
